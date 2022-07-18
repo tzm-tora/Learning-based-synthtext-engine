@@ -8,14 +8,16 @@ Zhengmi Tang, Tomo Miyazaki, and Shinichiro Omachi.
 
 Graduate School of Engineering, Tohoku University
 
-<img width="500" src="./fig/overview.png">
+<img width="700" src="./fig/overview.png">
+
+## Training Data preparation
+You can download our [DecompST datatset](https://github.com/iiclab/DecompST) to train the networks.
 
 ## Requirements
 ```
 PyTorch==1.8.1
 tqdm==4.55.1
 torchvision==0.9.1
-numpy==1.19.2
 opencv-python==4.5.1.48
 ```
 ## Training
