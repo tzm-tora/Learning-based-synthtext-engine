@@ -26,12 +26,12 @@ coming soon...
 ## Data Generation
 * perpare the raw background images, fonts and txt lexico as generation materials. Examples are shown in `./data` file.
 * download our [trained models]() and put them in the `./ckpt` folder.
-* revise the `bg_dir` with the right path in TLPNet/infer.py
+* revise the `bg_dir` with the right path in `TLPNet/infer.py`
 * run 
 ```
 python TLPNet/infer.py
 ```
-* revise the `Heatmap_dir`, `Ibg_dir` and `save_path` and other variable with the right path and value in TAANet/gen.py
+* revise the `Heatmap_dir`, `Ibg_dir` and `save_path` and other variable with the right path and value in `TAANet/gen.py`
 * run 
 ```
 python TAANet/gen.py
