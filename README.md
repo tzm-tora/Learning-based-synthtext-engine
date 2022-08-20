@@ -24,7 +24,7 @@ opencv-python==4.5.1.48
 coming soon...
 
 ## Data Generation
-* perpare the background images, fonts and txt lexico as generation materials. Examples are shown in `./data` file.
+* perpare the raw background images, fonts and txt lexico as generation materials. Examples are shown in `./data` file.
 * download our [trained models]() and put them in the `./ckpt` folder.
 * revise the `bg_dir` with the right path in TLPNet/infer.py
 * run 
