@@ -36,7 +36,7 @@ python TLPNet/infer.py
 ```
 python TAANet/gen.py
 ```
-** Note that our code now only support data generation on single GPU or CPU.**
+**Note that our code now only support data generation on single GPU or CPU.**
 
 ## Citation
 If you find our method or code useful for your reserach, please cite:
