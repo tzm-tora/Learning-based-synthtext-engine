@@ -24,13 +24,19 @@ opencv-python==4.5.1.48
 coming soon...
 
 ## Data Generation
-* perpare the background images, fonts and txt lexico as generation materials. Examples are shown in `./material` file.
-* download our [trained model]().
-* revise the `model_path`, `src_img_dir` and `src_txt_dir` with the right path in test.py
+* perpare the background images, fonts and txt lexico as generation materials. Examples are shown in `./data` file.
+* download our [trained models]() and put them in the `./ckpt` folder.
+* revise the `bg_dir` with the right path in TLPNet/infer.py
+* run 
+```
+python TLPNet/infer.py
+```
+* revise the `Heatmap_dir`, `Ibg_dir` and `save_path` and other variable with the right path and value in TAANet/gen.py
 * run 
 ```
 python TAANet/gen.py
 ```
+** Note that our code now only support data generation on single GPU or CPU.**
 
 ## Citation
 If you find our method or code useful for your reserach, please cite:
