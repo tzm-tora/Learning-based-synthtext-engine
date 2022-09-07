@@ -2,7 +2,7 @@
 
 This repository is a PyTorch implemention of following paper:
 
-**A Scene-Text Synthesis Engine via Learning from Decomposed Real-world Data** | [ArXiv](....)
+**A Scene-Text Synthesis Engine via Learning from Decomposed Real-world Data** | [ArXiv](https://arxiv.org/abs/2209.02397)
 
 Zhengmi Tang, Tomo Miyazaki, and Shinichiro Omachi.
 
