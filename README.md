@@ -41,7 +41,12 @@ python TAANet/gen.py
 ## Citation
 If you find our method or code useful for your reserach, please cite:
 ```
-
+@article{LBTS2022tang,
+  author = {Tang, Zhengmi and Miyazaki, Tomo and Omachi, Shinichiro},
+  journal = {arXiv preprint arXiv:2209.02397},
+  title = {A Scene-Text Synthesis Engine Achieved Through Learning from Decomposed Real-World Data},
+  year = {2022},
+}
 ```
 
 
