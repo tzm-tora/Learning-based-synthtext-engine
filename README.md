@@ -27,7 +27,7 @@ opencv-python==4.5.1.48
 ## Data Generation
 
 - prepare the raw background images, fonts, and text lexicon as generation materials. Examples are shown in `./data` file.
-- download our [trained models]([https://www.notion.so/Learning-based-Scene-text-Synthesis-Engine-4933aa80b8d847d18ea0ee55405a6e96?pvs=21](https://drive.google.com/drive/folders/1es5ClHJBJsnJjurbK2BfblZ9WuR94QOQ)) and put them in the `./ckpt` folder.
+- download our [trained models](https://drive.google.com/drive/folders/1es5ClHJBJsnJjurbK2BfblZ9WuR94QOQ) and put them in the `./ckpt` folder.
 - revise the `bg_dir` with the right path in `TLPNet/infer.py`
 - run
 
