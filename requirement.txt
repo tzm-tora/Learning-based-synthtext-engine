@@ -1,0 +1,5 @@
+PyTorch==1.8.1
+tqdm==4.55.1
+torchvision==0.9.1
+opencv-python==4.5.1.48
+pygame==2.0.1
