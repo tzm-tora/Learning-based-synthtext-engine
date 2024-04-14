@@ -8,7 +8,7 @@ Zhengmi Tang, Tomo Miyazaki, and Shinichiro Omachi.
 
 Graduate School of Engineering, Tohoku University
 
-<img width="700" src="./fig/overview.JPG">
+<img width="400" src="./fig/overview.JPG">
 <img width="700" src="./fig/results.JPG">
 
 ## Training Data Preparation
